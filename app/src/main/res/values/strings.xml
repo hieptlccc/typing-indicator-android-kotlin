@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">Typing Indicator</string>
+    <string name="email_edt" translatable="false">Email</string>
+    <string name="password_edt" translatable="false">Password</string>
+    <string name="login_btn" translatable="false">Login</string>
+    <string name="register_txt" translatable="false">Create New Account</string>
+    <string name="fullname_edt" translatable="false">Full Name</string>
+    <string name="confirm_password_edt" translatable="false">Confirm Password</string>
+    <string name="register_btn" translatable="false">Register</string>
+    <string name="user_name_edt" translatable="false">Username</string>
+    <string name="upload_title_txt" translatable="false">Upload your avatar</string>
+    <string name="chat_edt" translatable="false">Please type here</string>
+</resources>

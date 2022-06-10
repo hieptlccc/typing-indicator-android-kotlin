@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "863152013472",
+    "firebase_url": "https://typing-indicator-and-kotlin-default-rtdb.firebaseio.com",
+    "project_id": "typing-indicator-and-kotlin",
+    "storage_bucket": "typing-indicator-and-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863152013472:android:594952ba2ec986c30349c5",
+        "android_client_info": {
+          "package_name": "com.example.typingindicator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863152013472-1glvl32ptvvatmc9puogbo2b13snu1sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD1o4JzhXyZq9rQuhgr0df2IakOY2E5s4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863152013472-1glvl32ptvvatmc9puogbo2b13snu1sd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
