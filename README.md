@@ -22,10 +22,11 @@ To run the demo, you need to have Android Studio installed on your computer and 
 4. From the Quick Start copy the **APP_ID, APP_REGION and AUTH_KEY**. These will be used later.
 5. Also copy the **REST_API_KEY** from the API & Auth Key tab.
 6. Navigate to the Users tab, and delete all the default users and groups leaving it clean **(very important)**.
-7. Download the repository [here](https://github.com/hieptl/typing-indicator-android-kotlin/archive/main.zip) or by running `git clone https://github.com/hieptl/typing-indicator-android-kotlin.git` and open it in a code editor.
+7. Download the repository [here](https://github.com/hieptlccc/typing-indicator-android-kotlin/archive/main.zip) or by running `git clone https://github.com/hieptlccc/typing-indicator-android-kotlin.git` and open it in a code editor.
 8. [Head to Firebase and create a new project](https://console.firebase.google.com)
-9. Create a file called Constants.kt in the package folder of your project.
-10. Import and inject your secret keys in the Constants.kt file containing your CometChat and Firebase in this manner.
+9. Create a folder called `constants` in the package folder of your project.
+10. Create a file called `Constants.kt` in the `constants` folder of your project.
+11. Import and inject your secret keys in the Constants.kt file containing your CometChat and Firebase in this manner.
 
 ```js
 interface Constants {
@@ -42,7 +43,7 @@ interface Constants {
 }
 ```
 
-Questions about running the demo? [Open an issue](https://github.com/hieptl/typing-indicator-android-kotlin/issues). We're here to help ✌️
+Questions about running the demo? [Open an issue](https://github.com/hieptlccc/typing-indicator-android-kotlin/issues). We're here to help ✌️
 
 ## Useful links
 
